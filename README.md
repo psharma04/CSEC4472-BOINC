@@ -7,3 +7,6 @@ CSEC4472 Open Computing BOINC Team
 
 ### Our BOINC Statistics:
 ![BOINC Statistics provided by BOINCStats BAM!](https://boincstats.com/signature/-1/team/1338088446/sig.png)
+
+### Members:
+[rbxii3 (Founder)](https://boincstats.com/signature/-1/user/40420131874/sig.png)
