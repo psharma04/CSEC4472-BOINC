@@ -10,3 +10,5 @@ CSEC4472 Open Computing BOINC Team
 
 ### Members:
 [rbxii3 (Founder)](https://boincstats.com/signature/-1/user/40420131874/sig.png)
+
+#### If you would like your account to be linked on this page, [Click Here](mailto:boinc@rbxii3.net?subject=Register&body=BOINCStats Username= ). You must have over 1000 total credits.
