@@ -7,11 +7,7 @@ CSEC4472 Joint/Open Computing BOINC Team
 ### NOTE: CSEC4472 Joint and CSEC4472 Open Computing are the SAME GROUP!!! Some of the projects were spitting errors when Joint was created, so Open was created to remove the errors.
 ### Our BOINC Statistics:
 
-#### Joint Computing:
-![BOINC Statistics provided by BOINCStats BAM!](https://boincstats.com/signature/-1/team/1338088446/sig.png)
-
-#### Open Computing:
-![BOINC Statistics provided by BOINCStats BAM!](https://boincstats.com/signature/-1/team/1534675331/sig.png)
+![BOINC Statistics provided by BOINCStats BAM!](https://boincstats.com/signature/-1/team/1338088446/sig.png) ![BOINC Statistics provided by BOINCStats BAM!](https://boincstats.com/signature/-1/team/1534675331/sig.png)
 
 ### Members:
 [rbxii3 (Founder)](https://boincstats.com/signature/-1/user/40420131874/sig.png)
