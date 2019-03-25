@@ -6,7 +6,8 @@ CSEC4472 Joint/Open Computing BOINC Team
 ### How to join: [guides.rbxii3.net/boinc/](https://guides.rbxii3.net/boinc/)
 ### NOTE: CSEC4472 Joint and CSEC4472 Open Computing are the SAME GROUP!!! Some of the projects were spitting errors when CSEC4472 Joint was created, so CSEC4472 Open was created to remove the errors.
 
-### We also have a Folding@Home team. <iframe src="https://nacl.foldingathome.org/micro.html?team=234967&power=light"
+### We also have a Folding@Home team.
+<iframe src="https://nacl.foldingathome.org/micro.html?team=234967&power=light"
   scrolling="no" frameBorder="0" width="132" height="68"
   style="float:right"></iframe>
 
