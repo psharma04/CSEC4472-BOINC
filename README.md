@@ -20,7 +20,7 @@ CSEC4472 Joint/Open Computing BOINC/FAH/SheepIt Team
 
 ### SheepIt Rendering Team:
 #### How To Join: 
-  1) SheepIt Registration: https://www.sheepit-renderfarm.com/getstarted.php
-  2) Team Registration (Nighthawk Racing): https://www.sheepit-renderfarm.com/team.php?id=910
-  3) Leave SheepIt running while your computer is idle, and render projects for our team.
+  1 [SheepIt Registration](https://www.sheepit-renderfarm.com/getstarted.php)
+  2. [Team Registration](https://www.sheepit-renderfarm.com/team.php?id=910)
+  3. Leave SheepIt running while your computer is idle, and render projects for our team.
 
